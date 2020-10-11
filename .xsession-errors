@@ -1,0 +1,98 @@
+Xsession: X session started for b00139473 at Sun 11 Oct 2020 01:37:34 PM EDT
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1001/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/b00139473/.Xauthority
+localuser:b00139473 being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting USER=b00139473
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting HOME=/home/b00139473
+dbus-update-activation-environment: setting DESKTOP_SESSION=lightdm-xsession
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1001/bus
+dbus-update-activation-environment: setting QT_QPA_PLATFORMTHEME=qt5ct
+dbus-update-activation-environment: setting LOGNAME=b00139473
+dbus-update-activation-environment: setting QT_AUTO_SCREEN_SCALE_FACTOR=0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting PATH=/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
+dbus-update-activation-environment: setting GDM_LANG=en_US.utf8
+dbus-update-activation-environment: setting _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1001
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=lightdm-xsession
+dbus-update-activation-environment: setting XAUTHORITY=/home/b00139473/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm/data/b00139473
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting GDMSESSION=lightdm-xsession
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1001/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/b00139473
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+/usr/bin/x-session-manager: X server already running on display :0
+xfce4-session-Message: 13:37:35.332: SSH authentication agent is already running
+gpg-agent[876]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfce4-session:815): xfce4-session-WARNING **: 13:37:35.339: gpg-agent returned no PID in the variables
+
+(xfwm4:879): xfwm4-WARNING **: 13:37:36.012: Unsupported GL renderer (llvmpipe (LLVM 10.0.0, 256 bits)).
+
+(wrapper-2.0:954): GLib-GIO-CRITICAL **: 13:37:37.201: g_file_new_for_path: assertion 'path != NULL' failed
+
+(wrapper-2.0:954): GLib-GIO-CRITICAL **: 13:37:37.201: g_file_monitor_file: assertion 'G_IS_FILE (file)' failed
+
+(wrapper-2.0:954): GLib-GObject-WARNING **: 13:37:37.201: invalid (NULL) pointer instance
+
+(wrapper-2.0:954): GLib-GObject-CRITICAL **: 13:37:37.201: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(wrapper-2.0:954): Gtk-WARNING **: 13:37:37.201: Attempting to add a widget with type GtkToggleButton to a container of type XfcePanelPlugin, but the widget is already inside a container of type XfcePanelPlugin, please remove the widget from its existing container first.
+
+(wrapper-2.0:943): Gtk-WARNING **: 13:37:37.242: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkToggleButton)
+
+(wrapper-2.0:954): Gtk-WARNING **: 13:37:37.267: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkToggleButton)
+
+** (wrapper-2.0:955): WARNING **: 13:37:37.328: No outputs have backlight property
+
+(wrapper-2.0:955): Gtk-WARNING **: 13:37:37.549: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner PowerManagerButton)
+
+(wrapper-2.0:953): Gtk-WARNING **: 13:37:37.672: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner PulseaudioButton)
+
+(vmware-user:1006): Gtk-WARNING **: 13:37:38.023: gtk_disable_setlocale() must be called before gtk_init()
+
+** (xiccd:992): WARNING **: 13:37:38.237: EDID is empty
+blueman-applet 13.37.39 WARNING  PluginManager:147 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 13.37.39 WARNING  PluginManager:147 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+blueman-applet 13.37.39 WARNING  DiscvManager:109 update_menuitems: warning: Adapter is None
+Properties constructor called
+TRANSLATIONS_DIR: Loading translation file "qterminal_en_US.qm" from dir /usr/share/qterminal/translations
+load success: false
+Canot open file "/home/b00139473/.config/qterminal.org/qterminal_bookmarks.xml"
+Trying to load translation file from dir "/usr/share/xfce4"
+Trying to load translation file from dir "/usr/local/share/"
+Trying to load translation file from dir "/usr/share/"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+loadAllColorSchemes
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Shell program: "/bin/bash"
+("/bin/bash")
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Properties destructor called
+Properties constructor called
+TRANSLATIONS_DIR: Loading translation file "qterminal_en_US.qm" from dir /usr/share/qterminal/translations
+load success: false
+Canot open file "/home/b00139473/.config/qterminal.org/qterminal_bookmarks.xml"
+Trying to load translation file from dir "/usr/share/xfce4"
+Trying to load translation file from dir "/usr/local/share/"
+Trying to load translation file from dir "/usr/share/"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+loadAllColorSchemes
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Shell program: "/bin/bash"
+("/bin/bash")
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.

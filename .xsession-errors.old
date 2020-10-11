@@ -1,0 +1,196 @@
+Xsession: X session started for b00139473 at Sun 11 Oct 2020 12:14:00 PM EDT
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1001/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/b00139473/.Xauthority
+localuser:b00139473 being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting USER=b00139473
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting HOME=/home/b00139473
+dbus-update-activation-environment: setting DESKTOP_SESSION=lightdm-xsession
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1001/bus
+dbus-update-activation-environment: setting QT_QPA_PLATFORMTHEME=qt5ct
+dbus-update-activation-environment: setting LOGNAME=b00139473
+dbus-update-activation-environment: setting QT_AUTO_SCREEN_SCALE_FACTOR=0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting PATH=/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
+dbus-update-activation-environment: setting GDM_LANG=en_US.utf8
+dbus-update-activation-environment: setting _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1001
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=lightdm-xsession
+dbus-update-activation-environment: setting XAUTHORITY=/home/b00139473/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm/data/b00139473
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting GDMSESSION=lightdm-xsession
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1001/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/b00139473
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+/usr/bin/x-session-manager: X server already running on display :0
+xfce4-session-Message: 12:14:01.647: SSH authentication agent is already running
+gpg-agent[1057]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfce4-session:996): xfce4-session-WARNING **: 12:14:01.655: gpg-agent returned no PID in the variables
+
+(xfwm4:1060): xfwm4-WARNING **: 12:14:02.316: Unsupported GL renderer (llvmpipe (LLVM 10.0.0, 256 bits)).
+
+(wrapper-2.0:1129): Gtk-WARNING **: 12:14:03.627: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkToggleButton)
+
+** (wrapper-2.0:1136): WARNING **: 12:14:03.696: No outputs have backlight property
+
+(wrapper-2.0:1135): GLib-GIO-CRITICAL **: 12:14:03.851: g_file_new_for_path: assertion 'path != NULL' failed
+
+(wrapper-2.0:1135): GLib-GIO-CRITICAL **: 12:14:03.851: g_file_monitor_file: assertion 'G_IS_FILE (file)' failed
+
+(wrapper-2.0:1135): GLib-GObject-WARNING **: 12:14:03.851: invalid (NULL) pointer instance
+
+(wrapper-2.0:1135): GLib-GObject-CRITICAL **: 12:14:03.851: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(wrapper-2.0:1135): Gtk-WARNING **: 12:14:03.851: Attempting to add a widget with type GtkToggleButton to a container of type XfcePanelPlugin, but the widget is already inside a container of type XfcePanelPlugin, please remove the widget from its existing container first.
+
+(wrapper-2.0:1135): Gtk-WARNING **: 12:14:03.897: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkToggleButton)
+
+(wrapper-2.0:1136): Gtk-WARNING **: 12:14:04.013: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner PowerManagerButton)
+
+(wrapper-2.0:1134): Gtk-WARNING **: 12:14:04.168: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner PulseaudioButton)
+
+(vmware-user:1190): Gtk-WARNING **: 12:14:04.546: gtk_disable_setlocale() must be called before gtk_init()
+
+** (xiccd:1171): WARNING **: 12:14:04.838: EDID is empty
+blueman-applet 12.14.05 WARNING  PluginManager:147 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 12.14.05 WARNING  PluginManager:147 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+blueman-applet 12.14.06 WARNING  DiscvManager:109 update_menuitems: warning: Adapter is None
+Sandbox: seccomp sandbox violation: pid 1375, tid 1375, syscall 315, args 1375 139830692968512 56 0 30 139830692968512.
+Sandbox: seccomp sandbox violation: pid 1427, tid 1427, syscall 315, args 1427 140231939980160 56 0 17 140231939980160.
+Sandbox: seccomp sandbox violation: pid 1473, tid 1473, syscall 315, args 1473 139884996303168 56 0 26 139884996303168.
+Sandbox: seccomp sandbox violation: pid 1509, tid 1509, syscall 315, args 1509 140182230138624 56 0 3 140182230138624.
+Properties constructor called
+TRANSLATIONS_DIR: Loading translation file "qterminal_en_US.qm" from dir /usr/share/qterminal/translations
+load success: false
+Canot open file "/home/b00139473/.config/qterminal.org/qterminal_bookmarks.xml"
+Trying to load translation file from dir "/usr/share/xfce4"
+Trying to load translation file from dir "/usr/local/share/"
+Trying to load translation file from dir "/usr/share/"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+loadAllColorSchemes
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Shell program: "/bin/bash"
+("/bin/bash")
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Properties destructor called
+Properties constructor called
+TRANSLATIONS_DIR: Loading translation file "qterminal_en_US.qm" from dir /usr/share/qterminal/translations
+load success: false
+Canot open file "/home/b00139473/.config/qterminal.org/qterminal_bookmarks.xml"
+Trying to load translation file from dir "/usr/share/xfce4"
+Trying to load translation file from dir "/usr/local/share/"
+Trying to load translation file from dir "/usr/share/"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+loadAllColorSchemes
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Shell program: "/bin/bash"
+("/bin/bash")
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Properties destructor called
+Properties constructor called
+TRANSLATIONS_DIR: Loading translation file "qterminal_en_US.qm" from dir /usr/share/qterminal/translations
+load success: false
+Canot open file "/home/b00139473/.config/qterminal.org/qterminal_bookmarks.xml"
+Trying to load translation file from dir "/usr/share/xfce4"
+Trying to load translation file from dir "/usr/local/share/"
+Trying to load translation file from dir "/usr/share/"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+loadAllColorSchemes
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Shell program: "/bin/bash"
+("/bin/bash")
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Properties constructor called
+TRANSLATIONS_DIR: Loading translation file "qterminal_en_US.qm" from dir /usr/share/qterminal/translations
+load success: false
+Canot open file "/home/b00139473/.config/qterminal.org/qterminal_bookmarks.xml"
+Trying to load translation file from dir "/usr/share/xfce4"
+Trying to load translation file from dir "/usr/local/share/"
+Trying to load translation file from dir "/usr/share/"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+loadAllColorSchemes
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Shell program: "/bin/bash"
+("/bin/bash")
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Properties destructor called
+Properties destructor called
+Warning: 'sandbox' is not in the list of known options, but still passed to Electron/Chromium.
+[90m[main 2020-10-11T16:54:52.701Z][0m update#setState idle
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+(node:2062) Electron: Loading non-context-aware native module in renderer: '/usr/share/code/resources/app/node_modules.asar.unpacked/vscode-sqlite3/build/Release/sqlite.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:2062) Electron: Loading non-context-aware native module in renderer: '/usr/share/code/resources/app/node_modules.asar.unpacked/spdlog/build/Release/spdlog.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:2108) Electron: Loading non-context-aware native module in renderer: '/usr/share/code/resources/app/node_modules.asar.unpacked/spdlog/build/Release/spdlog.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+[90m[main 2020-10-11T16:55:22.718Z][0m update#setState checking for updates
+[90m[main 2020-10-11T16:55:22.804Z][0m update#setState idle
+Properties constructor called
+TRANSLATIONS_DIR: Loading translation file "qterminal_en_US.qm" from dir /usr/share/qterminal/translations
+load success: false
+Canot open file "/home/b00139473/.config/qterminal.org/qterminal_bookmarks.xml"
+Trying to load translation file from dir "/usr/share/xfce4"
+Trying to load translation file from dir "/usr/local/share/"
+Trying to load translation file from dir "/usr/share/"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+loadAllColorSchemes
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Shell program: "/bin/bash"
+("/bin/bash")
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Properties destructor called
+Properties constructor called
+TRANSLATIONS_DIR: Loading translation file "qterminal_en_US.qm" from dir /usr/share/qterminal/translations
+load success: false
+Canot open file "/home/b00139473/.config/qterminal.org/qterminal_bookmarks.xml"
+Trying to load translation file from dir "/usr/share/xfce4"
+Trying to load translation file from dir "/usr/local/share/"
+Trying to load translation file from dir "/usr/share/"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+loadAllColorSchemes
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Shell program: "/bin/bash"
+("/bin/bash")
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Properties destructor called
+Properties constructor called
+TRANSLATIONS_DIR: Loading translation file "qterminal_en_US.qm" from dir /usr/share/qterminal/translations
+load success: false
+Canot open file "/home/b00139473/.config/qterminal.org/qterminal_bookmarks.xml"
+Trying to load translation file from dir "/usr/share/xfce4"
+Trying to load translation file from dir "/usr/local/share/"
+Trying to load translation file from dir "/usr/share/"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+loadAllColorSchemes
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Shell program: "/bin/bash"
+("/bin/bash")
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Properties destructor called
+
+(xfdesktop:1112): libxfce4ui-WARNING **: 13:36:26.934: ICE I/O Error
+
+(xfdesktop:1112): libxfce4ui-WARNING **: 13:36:26.934: Disconnected from session manager.
